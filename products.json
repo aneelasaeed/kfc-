@@ -1,0 +1,64 @@
+[
+    {
+        "id": 1,
+        "title": "Krunch Combo",
+        "price": 520,
+        "description": "1 Krunch burger + 1 Regular fries + 1 Regular drink",
+        "image": "https://www.kfcpakistan.com/images/43a9fb50-ffaa-11ed-8180-812e571998fe-krunch_variant_0-2023-05-31115706.png"
+    },
+    {
+        "id": 2,
+        "title": "Zinger Burger",
+        "price": 520,
+        "description": "1 Zinger burger + 1 Regular fries + 1 Regular drink",
+        "image": "https://www.kfcpakistan.com/images/6249b820-0513-11ee-9e45-cb0ed000d4a6-Zinger_variant_0-2023-06-07091210.png"
+    },
+    {
+        "id": 3,
+        "title": "Spicy Chicken Combo",
+        "price": 550,
+        "description": "1 Spicy chicken burger + 1 Regular fries + 1 Regular drink",
+        "image": "https://www.kfcpakistan.com/images/43a98620-ffaa-11ed-b6b3-6970cc1cd666-krunch-with-combo-2023-05-31115706.png"
+    },
+    {
+        "id": 4,
+        "title": "Twister Combo",
+        "price": 540,
+        "description": "1 Twister burger + 1 Regular fries + 1 Regular drink",
+        "image": "https://www.kfcpakistan.com/images/43a9fb50-ffaa-11ed-8180-812e571998fe-twister-combo-2023-05-31115706.png"
+    },
+    {
+        "id": 5,
+        "title": "Family Feast",
+        "price": 1100,
+        "description": "2 Krunch burgers + 2 Regular fries + 2 Regular drinks",
+        "image": "https://www.kfcpakistan.com/images/43a9fb50-ffaa-11ed-8180-812e571998fe-family-Festivle-3-2023-05-31115706.png"
+
+    },    
+    {
+        "id": 6,
+        "title": "Chicken & Chips",
+        "price": 550,
+        "description": "2 pieces of Hot and Crispy Fried Chicken+ Fries + Dinner roll",
+        "image": "https://www.kfcpakistan.com/images/43a9fb50-ffaa-11ed-8180-812e571998fe-chicken-n-chips-2023-05-31115706.png"
+
+    },
+    {
+        "id": 7,
+        "title": "Kentucky Burger",
+        "price": 590,
+        "description": "OG Zinger fillet layered with beef pepperoni, crispy fried",
+        "image": "https://www.kfcpakistan.com/images/332ab600-0461-11ee-8f91-addd12cf7fa1-Kentucky_variant_0-2023-06-06115641.png"
+
+    },
+    {
+        "id": 8,
+        "title": "Value Bucket",
+        "price": 1800,
+        "description": "2 Krunch burgers + 2 Regular fries + 2 Regular drinks",
+        "image": "https://www.kfcpakistan.com/images/43a95f10-ffaa-11ed-b673-4121381f04c6-value-Bucket-2023-05-31115706.png"
+
+    }
+
+
+]
